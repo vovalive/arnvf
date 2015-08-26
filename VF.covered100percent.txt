@@ -1,0 +1,46 @@
+	bg22	bg5	bg6	bg7	bg8	sba15	sba16	sba17_1	sba19_1	sba20_1	sba38	sba46	sba47	sba48	sba49	sba50
+VFG0784 Z5088 - unknown protein encoded by IS911 within prophage CP-933L [Escherichia coli O157:H7 EDL933]	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+VFG1485 l7045 - L7045 [Escherichia coli 536]	1	0	0	0	0	1	1	1	1	1	0	0	0	0	1	0
+VFG1529 yeeT - YeeT protein [Escherichia coli 536]	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+VFG1532 z1225 - Z1225 protein [Escherichia coli 536]	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+VFG1594 orf60 - hypothetical protein [Escherichia coli 536]	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	1
+VFG1632 yis1_SHISO - hypothetical protein of insertion element IS1 [Escherichia coli 536]	0	1	1	1	0	0	0	0	0	0	1	1	1	1	0	0
+VFG1672 orf49 - hypothetical protein [Escherichia coli 536]	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+VFG1684 orf61 - hypothetical protein [Escherichia coli 536]	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+VFG1708 c3577 - Unknown protein encoded by ISEc8 within prophage [Escherichia coli CFT073]	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+VFG1732 c3611 - Transposase insD for insertion element IS2A/D/F/H/I/K [Escherichia coli CFT073]	0	0	0	1	0	0	1	0	0	0	1	1	1	1	0	1
+VFG1733 c3612 - Transposase insC for insertion element IS2A/D/F/H/I/K [Escherichia coli CFT073]	0	0	0	1	1	0	0	0	0	0	1	1	1	1	0	0
+VFG1737 c3616 - Unknown in ISEc8 [Escherichia coli CFT073]	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+VFG0603 SF3703 - orf, conserved hypothetical protein [Shigella flexneri (serotype 2a) 301]	0	1	1	1	0	0	0	0	0	0	1	1	1	1	0	0
+VFG0612 tnpH - orf, conserved hypothetical protein [Shigella flexneri (serotype 2a) 301]	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+VFG0639 SF2975 - orf, conserved hypothetical protein [Shigella flexneri (serotype 2a) 301]	1	1	1	0	0	1	1	1	1	1	0	0	0	0	1	0
+VFG0640 SF2976 - orf, conserved hypothetical protein [Shigella flexneri (serotype 2a) 301]	1	1	1	0	0	1	1	1	1	1	0	0	0	0	1	0
+VFG0644 SF2980 - orf, conserved hypothetical protein [Shigella flexneri (serotype 2a) 301]	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+VFG0650 SF2986 - orf, partial conserved hypothetical protein [Shigella flexneri (serotype 2a) 301]	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+VFG0651 alpA - orf, conserved hypothetical protein [Shigella flexneri (serotype 2a) 301]	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+VFG0657 SF2993 - orf, conserved hypothetical protein [Shigella flexneri (serotype 2a) 301]	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+VFG1026 aadA1 - streptomycin adenyltransferase AadA1 [Shigella flexneri (serotype 2a) YSH6000]	0	1	0	0	0	0	0	0	0	0	1	0	1	1	0	0
+VFG1027 oxa-1 - beta-lactamase Oxa-1 [Shigella flexneri (serotype 2a) YSH6000]	0	1	1	0	1	0	0	0	0	0	1	0	0	0	0	0
+VFG1028 intI1 - Tn21 integrase IntI1 [Shigella flexneri (serotype 2a) YSH6000]	1	1	1	0	1	1	1	1	1	1	1	0	1	1	1	0
+VFG1029 tnpM - TnpM [Shigella flexneri (serotype 2a) YSH6000]	1	1	1	0	0	1	1	1	1	1	1	0	1	1	1	0
+VFG1030 tnpR - resolvase TnpR [Shigella flexneri (serotype 2a) YSH6000]	0	0	0	0	1	0	0	0	0	0	1	0	1	1	1	0
+VFG1031 tnpA - transposase TnpA [Shigella flexneri (serotype 2a) YSH6000]	0	1	1	0	1	0	1	0	0	0	1	1	1	1	1	1
+VFG1032 cat - chloramphenicol acetyltransferase [Shigella flexneri (serotype 2a) YSH6000]	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	1
+VFG1044 fecC - FecC [Shigella flexneri (serotype 2a) YSH6000]	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+VFG1045 fecB - FecB [Shigella flexneri (serotype 2a) YSH6000]	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0
+VFG1046 orf30 - unknown [Shigella flexneri (serotype 2a) YSH6000]	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0
+VFG1047 fecA - FecA [Shigella flexneri (serotype 2a) YSH6000]	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0
+VFG1048 fecR - FecR [Shigella flexneri (serotype 2a) YSH6000]	0	0	0	1	0	0	1	0	0	0	0	1	0	1	0	0
+VFG1049 fecI - FecI [Shigella flexneri (serotype 2a) YSH6000]	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0
+VFG0358 fyuA/psn - pesticin/yersiniabactin receptor protein [Yersinia pestis CO92] (VF0136)	0	0	0	0	1	0	0	0	0	0	1	1	1	1	0	1
+VFG0359 ybtE - yersiniabactin siderophore biosynthetic protein [Yersinia pestis CO92] (VF0136)	0	0	0	0	1	0	0	0	0	0	1	1	1	1	0	1
+VFG0360 ybtT - yersiniabactin biosynthetic protein YbtT [Yersinia pestis CO92] (VF0136)	0	0	0	0	1	0	0	0	0	0	1	1	1	1	0	1
+VFG0361 ybtU - yersiniabactin biosynthetic protein YbtU [Yersinia pestis CO92] (VF0136)	0	0	0	0	1	0	0	0	0	0	1	1	1	1	0	1
+VFG0362 irp1 - yersiniabactin biosynthetic protein HMWP1 (high molecular weight protein 1) [Yersinia pestis CO92] (VF0136)	0	0	0	0	1	0	0	0	0	0	1	1	1	1	0	1
+VFG0363 irp2 - yersiniabactin biosynthetic protein HMWP2 (high molecular weight protein 2) [Yersinia pestis CO92] (VF0136)	0	0	0	0	1	0	0	0	0	0	1	1	1	1	0	1
+VFG0364 ybtA - transcriptional regulator YbtA [Yersinia pestis CO92] (VF0136)	0	0	0	0	1	0	0	0	0	0	1	1	1	1	0	1
+VFG0365 ybtP - lipoprotein inner membrane ABC-transporter [Yersinia pestis CO92] (VF0136)	0	0	0	0	1	0	0	0	0	0	1	1	1	1	0	1
+VFG0366 ybtQ - inner membrane ABC-transporter YbtQ [Yersinia pestis CO92] (VF0136)	0	0	0	0	1	0	0	0	0	0	1	1	1	1	0	1
+VFG0367 ybtX - putative signal transducer [Yersinia pestis CO92] (VF0136)	0	0	0	0	1	0	0	0	0	0	1	1	1	1	0	1
+VFG0368 ybtS - putative salicylate synthetase [Yersinia pestis CO92] (VF0136)	0	0	0	0	1	0	0	0	0	0	1	1	1	1	0	1
+VFG0369 int - integrase [Yersinia pestis CO92]	0	0	0	0	1	0	0	0	0	0	1	1	1	1	0	1
